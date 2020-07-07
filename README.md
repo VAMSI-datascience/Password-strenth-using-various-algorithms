@@ -4,7 +4,7 @@ The software that analyzes the strength of the password to facilitate organizati
 against password breach and provide a highly secure environment using Machine Learning algorithms such as Naive
 Bayes, Logistic Regression, Random Forest, Neural Network and Decision Tree.
 
-Live Demo : [Check your password strength - by Kishan](https://checkpasswordstrength.herokuapp.com/)
+ [Check your password strength here](https://checkpasswordstrength.herokuapp.com/)
 
 ## Algorithms used
 - Decision Trees
